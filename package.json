@@ -1,0 +1,11 @@
+{
+    "name": "microsoft-office365-calendar",
+    "description": "Node.Js Api for microsoft office365 calendars",
+    "homepage": "https://github.com/sahilchitkara/microsoft-office365-calendar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sahilchitkara/microsoft-office365-calendar"
+    },
+    "version": "0.0.1",
+    "main": "./office365Calendar"
+}
